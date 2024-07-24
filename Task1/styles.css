@@ -1,0 +1,20 @@
+
+.border {
+    border: 2px solid blue;
+}
+.box{
+    background-color: blueviolet;
+    
+}
+.border2 {
+    border: 2px solid coral ;
+}
+.box2{
+   background-color: gold;
+}
+.border3{
+    border:solid chocolate;
+}
+.box3{
+    background-color: chartreuse;
+}

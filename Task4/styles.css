@@ -1,0 +1,26 @@
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    text-align:left;
+    color: white;
+}
+.box2{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    color:brown;
+    font-weight: bold;
+}
+.border{
+    border: 6px solid green;
+}
+.box3{
+    width: 600px;
+    height: 200px;
+    border-radius: 5%;
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
